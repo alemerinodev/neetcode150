@@ -1,0 +1,8 @@
+# Rust
+target/
+
+# Kotlin
+out/
+
+# Intellij
+.idea/
